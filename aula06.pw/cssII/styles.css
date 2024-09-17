@@ -1,0 +1,92 @@
+#meuId {
+    background-color: darkcyan;
+    width: 300px;
+    height: 300px;
+    font-size: 17px;
+}
+
+.minhaclasse{
+    background-color: blue;
+    width: 300px;
+    height: 300px;
+    border: 10px solid;
+    font-size: 29px;
+}
+
+div{
+    background-color: coral;
+    width: 300px;
+    height: 100px;
+    border: 10px solid;
+    font-size: 41px;
+}
+
+div>p {
+    color: aqua;
+    font-weight: bold;
+}
+.minhaclasse .div3{
+    color: darkred;
+    font-size: 11px;
+}
+
+#mt{
+    margin-top: sopx;
+
+}
+
+#mb{
+    margin-bottom: 25px;
+}
+
+#ml{
+    margin-left: 100px;
+}
+
+#mr{
+    margin-right: 100px;
+}
+
+#m-all{
+    margin: 100px,50px,100px,50px;
+}
+
+#pt{
+   padding-top: sopx;
+
+}
+
+#pb{
+   padding-bottom: 25px;
+}
+
+#pr{
+    padding-left: 100px;
+}
+
+#pl{
+    padding-right: 100px;
+}
+
+#p-all{
+    padding: 100px,50px,100px,50px;
+}
+
+
+/* display */
+
+.block-element{
+ display: block;
+}
+
+.inline-element{
+ display: inline;
+}
+
+.inline-bloc-element{
+ display: inline-block;
+}
+
+.none-element{
+ display: none;
+}
